@@ -8,9 +8,9 @@
 - 将代码clone到blog目录下
 `git clone https://github.com/luckyquan/blog`
 - 最后执行hexo命令运行博客
-```hexo clean 清理一下
-hexo g  生成
-hexo s  运行服务```
-可以通过localhost:4000 来查看内容（或者 服务器IP:4000）
+`hexo clean 清理一下`
+`hexo g  生成`
+`hexo s  运行服务`
+- 可以通过localhost:4000 来查看内容（或者 服务器IP:4000）
 
-<font size=4>[效果演示](http://47.102.117.12:4000)</font>
+**[效果演示](http://47.102.117.12:4000)**
